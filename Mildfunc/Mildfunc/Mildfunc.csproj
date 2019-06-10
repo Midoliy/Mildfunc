@@ -2,14 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2019.06.10.1</Version>
-    <Authors>Midolily</Authors>
+    <Version>2019.06.10.2</Version>
+    <Authors>Midoliy</Authors>
     <Copyright>©2019 Midoliy</Copyright>
     <NeutralLanguage>ja</NeutralLanguage>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/Midoliy/Mildfunc</PackageProjectUrl>
-    <AssemblyVersion>2019.6.10.1</AssemblyVersion>
+    <AssemblyVersion>2019.6.10.2</AssemblyVersion>
     <PackageTags>func;functional;fn;curry;mild;</PackageTags>
+    <Company>Midoliy</Company>
   </PropertyGroup>
 
 </Project>
